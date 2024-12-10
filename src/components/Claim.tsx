@@ -187,8 +187,8 @@ export default function Claim({ gameResult, showModal, setShowModal }: ClaimProp
                                                 maxWidth: '300px',
                                                 textAlign: 'center'
                                             }}>
-                                                <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem' }}>Claim 1 Tokens!</h2>
-                                                <p style={{ marginBottom: '1rem' }}>You can claim 1 tokens to your wallet.</p>
+                                                <h2 style={{ fontSize: '1.2rem', marginBottom: '1rem' }}>Claim 1 Token!</h2>
+                                                <p style={{ marginBottom: '1rem' }}>You can claim 1 token to your wallet.</p>
 
                                                 <TransactionButton
                                                     transaction={() => claimTo({
