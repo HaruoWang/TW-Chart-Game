@@ -6,6 +6,7 @@
 <p>
   <a href="#introduction"><strong>Introduction</strong></a> ·
   <a href="#tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#telegram-mini-app"><strong>Telegram Mini App</strong></a> ·
   <a href="#author"><strong>Author</strong></a>
 </p>
 <br/>
@@ -22,6 +23,10 @@ TW Chart Game使用以下技術所打造：
 - [Vercel](https://vercel.com) – 部署
 - [Thirdweb](https://thirdweb.com) – Web3開發
 - [Lightweight Charts](https://www.tradingview.com/lightweight-charts) – 圖表
+
+## Telegram Mini App
+
+- [twchartgame](https://t.me/TWCGbot/twcg)
 
 ## Author
 
