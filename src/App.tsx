@@ -59,6 +59,7 @@ function App() {
         marginInline: 'auto',
         paddingTop: '1rem',
         maxWidth: '360px',
+        backgroundColor: '#F0F0F0',
       }}>
         {
           showModal ? 
